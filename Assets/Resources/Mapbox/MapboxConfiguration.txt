@@ -1,1 +1,1 @@
-{"AccessToken":"","TelemetryEnabled":true}
+{"AccessToken":"pk.eyJ1IjoiYWxlbmF2YSIsImEiOiJjbXVlemR0N2EwMWVsMnhweTFqODZyeHpoIn0.B2oxlJd19imr6PvhhOgFjg","TelemetryEnabled":true}
